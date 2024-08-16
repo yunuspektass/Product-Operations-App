@@ -18,8 +18,8 @@ Bu proje, **Product Manager** uygulamasını içermektedir. Uygulama, Vue.js, Vu
 Projeyi klonladıktan sonra gerekli bağımlılıkları yükleyin ve geliştirme sunucusunu başlatın:
 
 ```bash
-git clone <repository-url>
-cd product-manager
+git clone https://github.com/yunuspektass/Product-Operations-App.git
+cd Product-Operations-App
 npm install
 npm run serve
 ```
